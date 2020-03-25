@@ -1,0 +1,15 @@
+*Mesmo que eu não use a variavel React, é necessário importar o react toda vez que eu usar JSX(JS na sintaxe de XML)
+
+*estado (useState) toda vez que é alterado, o componente é renderizado
+    **ele nos retorna um array de 2 posições: [valor,funçãodeAtualização]
+
+* colocamos o exact na primeira rota dentro do swift para não atrapalhar as outras
+
+*precisamos importar o react link para não termos que recarregar toda pag ao clicarmos um link, mantendo assim o comportamento spa 
+
+*para juntarmos nosso front com o back precisamos instalar um cliente HTTP (axios) responsavel por conseguir fazer as chamadas a nossa API do back e obter respostas
+
+*service é todo tipo de arquivo que prove alguma integração com serviço externo
+
+*por padrão todo form recarrega a pag, mas se eu quiser mudar isso é só prevenir o comportamento padrão (preventDefault)
+

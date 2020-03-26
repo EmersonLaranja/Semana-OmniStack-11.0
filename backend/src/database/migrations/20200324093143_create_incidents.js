@@ -6,10 +6,9 @@ exports.up = function(knex) {
         table.string('description').notNullable();
         table.decimal('value').notNullable();
 
-        //relacionamento: colocando qual ong criou o incident
         table.string('ong_id').notNullable();
 
-        //criando chave estrangeira
+        //creating the foreign key
         table.foreign('ong_id').references('id').inTable('ongs');
 
          

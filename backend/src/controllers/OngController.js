@@ -22,7 +22,7 @@ module.exports={
         uf,
     })
 
-    //devolvendo uma resposta (response) ao nosso cliente
+    //response to a client
     return response.json({id});
     }
 }

@@ -48,4 +48,7 @@ No mobile os usuários podem visualizar casos de diversas Ongs e entrar em conta
 
 ### Web
 ![](images-github/logon.jfif)
+![](images-github/cadastrar-caso.jfif)
+
 ### Mobile
+![](images-github/mobile.jfif)
